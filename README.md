@@ -12,5 +12,6 @@ A curated list of the best Windows apps for your multimedia tasks, office, secur
 
 #### Accessibility
 
+- [Balabolka](http://www.cross-plus-a.com/balabolka.htm) [⬇️](http://www.cross-plus-a.com/balabolka.htm)
 - [Free Virtual Keyboard](https://freevirtualkeyboard.com) [⬇️](https://freevirtualkeyboard.com)
 - [Virtual Magnifying Glass](http://magnifier.sourceforge.net) [⬇️](http://magnifier.sourceforge.net/#download)
