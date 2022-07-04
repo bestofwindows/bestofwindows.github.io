@@ -12,5 +12,5 @@ A curated list of the best Windows apps for your multimedia tasks, office, secur
 
 #### Accessibility
 
-- [Free Virtual Keyboard](https://freevirtualkeyboard.com) [:arrow_down:](https://freevirtualkeyboard.com)
-- [Virtual Magnifying Glass](http://magnifier.sourceforge.net) [:arrow_down:](http://magnifier.sourceforge.net/#download)
+- [Free Virtual Keyboard](https://freevirtualkeyboard.com) [⬇️](https://freevirtualkeyboard.com)
+- [Virtual Magnifying Glass](http://magnifier.sourceforge.net) [⬇️](http://magnifier.sourceforge.net/#download)
